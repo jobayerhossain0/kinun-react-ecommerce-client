@@ -9,6 +9,7 @@ Functionalities:
 - User can add products to the cart, remove from the cart, clear the cart, see the subtotal, and total price.
 
 Admin panel login info:
+
 Live Link: https://kinun-2563f.web.app/
 - Path: '/admin'
 - Email: admin@kinun.com
