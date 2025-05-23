@@ -2,13 +2,14 @@
 # Kinun - React Ecommerce App
 
 Functionalities:
-- Login with google, email and password.
-- Search, filter, sort products by categoreis, brands, time on products page.
-- Admin panel with speacial admin email and password.
-- Products, categories, brands can be uploaded, deleted, edited by admin on admin panel.
-- User can add products to cart, remove from cart, clear all cart, see subtotal and total price.
+- Login with Google, email, and password.
+- Search, filter, and sort products by categories, brands, and time on the products page.
+- Admin panel with special admin email and password.
+- Products, categories, and band rands can be uploaded, deleted, and edited by the admin on the admin panel.
+- User can add products to the cart, remove from the cart, clear the cart, see the subtotal, and total price.
 
 Admin panel login info:
+Live Link: https://kinun-2563f.web.app/
 - Path: '/admin'
 - Email: admin@kinun.com
 - Password: admin@kinun
